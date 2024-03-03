@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314951118059",
+    "project_id": "todolist-bb59f",
+    "storage_bucket": "todolist-bb59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314951118059:android:1ade53df918139ac3ae2ae",
+        "android_client_info": {
+          "package_name": "com.example.calendar_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCje9VeRsKy2rUulAalqP7QAPxa0uWmrhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314951118059:android:5a1d7e6622b3108e3ae2ae",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCje9VeRsKy2rUulAalqP7QAPxa0uWmrhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
